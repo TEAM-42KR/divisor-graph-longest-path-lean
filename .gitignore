@@ -1,0 +1,4 @@
+.lake/
+__pycache__/
+scripts/.last_run.json
+scripts/.assemble.lock
